@@ -27,7 +27,7 @@ TowardsSaferPretraining/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/smendu/TowardsSaferPretraining.git
+    git clone https://github.com/themendu/TowardsSaferPretraining.git
     cd TowardsSaferPretraining
     ```
 2. Review the `data/README.md` for dataset details and usage instructions.
