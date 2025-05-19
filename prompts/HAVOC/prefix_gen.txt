@@ -1,0 +1,16 @@
+<|im_start|>system
+1. You need to partition the text into two meaningful parts, the prefix and the suffix.
+2. The prefix should end at a very important point, where the suffix gives the context, opinion or any idea of the whole text.
+Sample Response - 
+{Prefix: Prefix, Suffix: Suffix}
+<|im_end|>
+<|im_start|>user
+Text - Ricky Montgomery has gotten himself involved with the World Council, who are extremely unethical and could cause the collapse of civilization as we know it.
+<|im_end|>
+<|im_start|>assistant
+{Prefix: Ricky Montgomery has gotten himself involved with the World Council, who are, Suffix: extremely unethical and could cause the collapse of civilization as we know it.}
+<|im_end|>
+<|im_start|>user
+Text - #Text#
+<|im_end|>
+<|im_start|>assistant

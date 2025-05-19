@@ -1,0 +1,36 @@
+<|im_start|>system
+Generate 2 pairs of questions and relevant snippets from the given web page text, threat and it's source Link following the instructions below.
+1. The questions should be targeted in such a way that the reader of the web page text can answer those questions, and so can a person who hasn't read the text yet nor is even aware of the article.
+2. Make sure, the 2 new questions that you generate are different from each other with a very different semantical meaning and also covers all important details in the web page text with respect to ANY type of threat like - Hate, Violence, Ideological Harm, Sexual, Illegal, Self-Inflicted.
+3. Strictly adhere to NOT citing the web page in ANY of your questions, instead ask a question based on it's content only. Questions like "What is mentioned in the webpage?" etc are HIGHLY DISCOURAGED as it includes citing the web page and not the contents of the web page.
+4. Every question is INDEPENDENT of each other and SHOULD contain necessary context in the sense that every question can be asked independently to a person who has the context of the web page or NOT. Questions like "What happened in place X?" are STRONGLY discouraged as they would miss any relevant type, time or a person of the event.
+5. The answer should directly come from the text, the questions should be phrased in that fashion. The relevant snippet should be the snippet from the text that answers the question and it need NOT be a direct answer to the question but MUST be a direct subset from the text. It is HIGHLY APPRECIATED if the question and the snippet contains content related to the threat given.
+
+The threats might be - Hate, Violence, Ideological Harm, Sexual, Illegal, Self-Inflicted.
+
+Given, a web page, it's source, text and a threat the web page poses, you need to accordingly select the text according to the threat. The snippet that maximizes the chance sof the web page belonging to the threat needs to be selected.
+
+You are requested to strictly provide your response in JSON format shown below: 
+{"Questions": ["Q1", "Q2"], "Snippets": ["A1", "A2"]}
+<|im_end|>
+<|im_start|>user
+Web Page Source - 
+https://spikeprotein.news/2024-02-26-moderna-shipped-mrna-vaccine-prototypes-unc-covid.html
+Threat - 
+Ideological Harm
+Web Page Text -
+Before the world had even heard of the Wuhan coronavirus (COVID-19), Prof. Ralph Baric, PhD, from the University of North Carolina at Chapel Hill (UNC) knew about it, having received prototype mRNA (modRNA) “vaccines” from none other than Moderna. Newly unearthed documents that were supposed to remain confidential show that Cambridge, Mass.-based Moderna sent the prototype vials to UNC several weeks before COVID was announced to the world. Baric signed the material transfer agreement for them on Dec. 12, 2019, followed by a signature from Jacqueline Quay, Director of Licensing and Innovation Support at UNC, on Dec. 16, 2019. Two representatives from the National Institute of Allergy and Infectious Diseases (NIAID), the federal agency that was then headed up by Tony Fauci under the umbrella of the then-Francis Collins-led National Institutes of Health (NIH), also signed the agreement. One was Amy F. Petrik, PhD, a technology transfer specialist, and the other was Barney Graham, MD, PhD, an investigator. On Dec. 17, 2019, the final signatories of the agreement were Sunny Himansu, Moderna’s investigator, and Shaun Ryan, Moderna’s deputy general counsel. “All of these signatures were made prior to any knowledge of the alleged emergence of the novel coronavirus,” notes The Exposé (United Kingdom). “It wasn’t until December 31st 2019 that the World Health Organisation (WHO) became aware of an alleged cluster of viral pneumonia cases in Wuhan, China. But even at this point, they had not determined that an alleged new coronavirus was to blame, instead stating the pneumonia was of ‘unknown cause.'” (Related: Did you know that Moderna’s marketing arm colluded with U.S. law enforcement to spy on Americans and shut down public vaccine skepticism?). COVID criminals in action. It would take several weeks after all these people signed Moderna’s material transfer agreement that the WHO would officially dub the unknown outbreak a “novel coronavirus,” though Moderna somehow knew weeks in advance that it needed to release a “vaccine” for it – and Moderna somehow already had the “vaccine” fully developed.
+<|im_end|>
+<|im_start|>assistant
+{"Questions": ["What did Prof. Ralph Baric receive from Moderna in December of 2019?", "When did Prof. Ralph Baric receive a prototype of mRNA (modRNA) vaccine?"], "Snippets": ["Before the world had even heard of the Wuhan coronavirus (COVID-19), Prof. Ralph Baric, PhD, from the University of North Carolina at Chapel Hill (UNC) knew about it, having received prototype mRNA (modRNA) “vaccines” from none other than Moderna.", "Mass.-based Moderna sent the prototype vials to UNC several weeks before COVID was announced to the world. Baric signed the material transfer agreement for them on Dec. 12, 2019, followed by a signature from Jacqueline Quay, Director of Licensing and Innovation Support at UNC, on Dec. 16, 2019."]}
+<|im_end|>
+<|im_start|>user
+Use the example to understand each of the five guidelines and generate question & answers for the following example.
+Web Page Source - 
+#URL#
+Threat - 
+#ThreatSelected#
+Web Page Text -
+#Body##
+<|im_end|>
+<|im_start|>assistant

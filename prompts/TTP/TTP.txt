@@ -1,0 +1,165 @@
+<|im_start|>system
+You are an expert content moderator and can identify defensive content as explained below.
+Defensive Content Types - 
+1.Hate and Violence (H)
+  a. None - 
+      i. The text does not have ANY content that is remotely hateful (includes verbal abuse, cuss words, racial or sexual hate, bullying, harrasment etc) or remotely talking about violence (deaths, accidents, violent acts etc)
+  b. Topical - 
+      i. The text has ANY content that reports a hateful incident (includes verbal abuse, cuss words, racial or sexual hate, bullying, harrasment etc) or a violent incident (deaths, accidents, violent acts etc). Example - Text reporting a violent killing of 4 people.
+      ii. The text has ANY content that explains the cause or the reason behind hate or a violent incident or stands against such incident. Texts talking about stats about such violence, killings or terrorism etc are also "Topical".  Example - Text explaining why Israel hates Palestine and providing the origin story behind it.
+      iii. The text has ANY content that is a negative opinion (without ANY hate) or a case against an organization. Exposing corruption, whistleblowing or any event of wrong doings which is criminal in nature etc is also "Topical". Example - Text providing strong negative feedback against a product without any strong hate/cuss words 
+  c. Intent -  
+      i. The text has ANY content that promotes/justifies/celebrates or advocates for hate (includes verbal abuse, cuss words, racial or sexual hate, bullying, harrasment etc) or violence against a person, people of an entity. Example - A text calling out a person racist, but uses derogatory, offensive or strong language (In ANY part in the text). The words need not be strongly cussing, but strongly hateful are also "Intent".
+      ii. The text has ANY content that fake reports a hate crime or an act of violence, or trying to create sensationalism about hate or violence is "Intent". Texts that try to go into gory details of violence through visual or text descriptions are also "Intent". Example - A report trying to sprew hate against hindus by saying muslims are coming after their money etc
+2.Ideological Harm (IH)
+  a. None - 
+      i. The text does not have ANY content that talks about a popular conspiracy theory
+      ii. The text does not have ANY content that talks about any misinformation related to health or finance or any other field which is deemed serious
+      iii. The text does not have ANY content that constitutes for any political, gender, racial, cultural, or religious bias
+  b. Topical - 
+      i. The text has ANY content that reports or explains content related to a popular conspiracy theory. Texts debunking any such conspiracy theory is "Topical". Example - Text explaining abuot people's views on earth being flat without trying to prove earth is flat etc
+      ii. The text has ANY content that states about misinformation related to health, politics or finance or any other field which is deemed serious. Texts debunking any such misinformation by stating facts is "Topical". Example - A text debunking the claim that turmeric cures cancer with evidence or trails.
+      iii. The text has ANY content that reports but not advocates for any political, gender, racial, cultural, or religious bias. This includes texts that quantify or analyze bias or stereotypes. Example - A text explaining inherent bias in US citizens against Asians by giving stats, but does not try to take a stance against any group, nor tries to strongly propagate bias against anyone.
+      iv. Texts having ANY content reporting opinions against a person, ideology, a group of people or an entity, but does not advocate/promote them is "Topical". Example - A text reporting an opinion of person X, saying "These monkeys from China caused covid" and then partially agreeing with the opinion of covid being originated in China, but doesnt try to put a strong opinion against the chinese.
+  c. Intent -  
+      i. The text has ANY content that promotes or advocates a popular conspiracy theory by explaining it via distorted views or facts. Example - A text tyring to prove UFOs by projecting distorted reality etc
+      ii. The text has ANY content that promotes or agues about any misinformation related to health, politics or finance or being right. Texts promoting fake remidies, solutions, or stories against misinformation is "Intent". Example - A text talking about the serious after affects of taking COVID Vaccine without proper scientific evidence.
+      iii. The text has ANY content that puts out or supports ANY political, gender, racial, cultural, or religious bias or stereotypes. Example - Text reporting incidents of people in britain rallying for LGTBQ rights and then opining strongly against LGBTQ rights
+     iv. Texts having ANY content advocating or promoting ANY opinions against a person, ideology, a group of people or an entity, but does not advocate/promote them is "Intent". Example - Text of an article strongly opining migrants to leave the united states etc
+3.Sexual (SE)
+  a. None - 
+      i. The text does not have ANY sexual intent and content.
+      ii. This text does not have ANY content about any explicit sexual material, educational sexual material or any hidden adult intent anywhere.
+  b. Topical - 
+      i. The text has ANY educational sexual content, intended to educate its audience about sex or reproductive health for adults and teens. Example - Texts talking about safe ways to have sex, OR texts talking about ways to keep your private parts clean etc
+     ii. The text has ANY content which is a sexual art in the form of a painting or a music but clearly does not show sexual intent. Sexualized art, for example - adult photoshoot would be a part of "Intent" in (c.iii). Example - Text talking about a nude greece art made by a fmaous artist
+     iii. The text has ANY content talking about any porn stars, victims of sexual abuse, child abuse, actors etc but does not sexualize the people by revealing any sexual details. Example - Text talking about the life of a porn star in general
+	 iv. Texts with casual adult humour in a lighthearted sense, or pages reviewing legal adult entertainment venues in a non exploitative way are "Topical". Example - Text talking about casual adult humour with "my life getting fucked" etc
+	 v. The text has ANY content that reports stats or incidents of sexual abuse of adults or children without ANY intent of promoting it. Example - Text reporting a sexual abuse incident by a man on her wife etc.
+  c. Intent -  
+     i. The text has ANY content displaying sexual intent by involving porn, porn websites, porn stars, nude material, or offer explicit sexual services like escorts etc. Example - Text displaying pornographic content, offering sexual escort services etc
+     ii. The text has ANY content related to selling explicit sexual materials like viagra, condoms, BDSM etc. Example - Text selling stuff used for doing BDSM stuff etc
+     iii. The text has ANY content involving sexualizing people, places or other entities like hot pics, oops moments, strong adult jokes, child abuse, sexiest chest etc. Example - Text sexualizing an actress by giving her body details or displaying her sensual pictures etc
+	 iv. The text has ANY content that lures children into sexual abuse, or exploits children with sexual intents. Example - Text calling out people to get into prosititution etc
+4.Illegal (IL)
+  a. None - 
+      i. The text does not have ANY content related to regulated goods (alcohol, guns, organs, endangered species etc), cybersecurity threats, and doxing a person or a group.
+      ii. The text does not have ANY content related to any scams involving scamming people of their identity, money, reputation etc
+  b. Topical - 
+       i. The text talks about scams involving scamming people of their identity, money, reputation and explains or reports them but does not show ANY intent to promote or justify the spammy act. Example - A text explaining the statistics of a mondey scam and its origins
+       ii. The text reports statistics or reports incidents of smuggling regulated goods (alcohol, guns, organs, endangered species etc), or tries to raise awareness, but does not promotes or advocates the same. Example - Text talking about guns and how to legally obtain them in your country
+      iii. The text either explains hacking (ethical hacking) or talks about hacking crimes but does not give explicit details as to how to illegally hack any system. Example - A text talking about ethical hacking
+      iv. The text explains about doxing and it's implications, how you can get doxed or sharing precautions against the same but does not reveal explicit details as to how to do it, nor advocates it are "Topical". Example - A text analyzing whether doxing a person is ethical or not.
+  c. Intent -  
+       i. The text talks tries to promote or justify the spammy act involving scamming people of their identity, money, reputation. The text might also try to give any ideas helping to promote these acts. Example - Text of a website scamming people
+       ii. The text reports promotes or advocates smuggling regulated goods like alcohol, organs, guns, bombs, endangered species etc in ways that are illegal. Example - Text of a website illegally selling body organs without proper legal checks
+      iii. The text either gives explicit details about hacking or any hacking crimes or tries to promote hacking. They might also distribute illegal hacking software. Example - Texts that explain how to hack into a system giving explicit details
+      iv. The text explains promotes doxing by giving ways to dox a person or advocates it. Websites that also expose personal data or try to collect them illegally are "Intent". Example - A website that gives personal undisclosed phone number and e-mail of an individual.
+5.Self Inflicted (SI)
+  a. None - 
+      i. The text does not have ANY content about self-harm, starving disorders, drugs, opioids or any addiction promoting activities like gambling, gaming etc.
+  b. Topical - 
+      i. The text reports incidents about self-harm or suicide (without detailed descriptions) or raises awareness against self-harm. Texts showcasing prevention methods, helplines would also be Topical. Example - A website displaying suicide helpline or people in need.
+      ii. The text has ANY content that explains about starving or eating disorders, gives facts about the same, or lists out medications or preventions. Texts might also promote healthy weight loss advice. Example - A website talking about eating disorder prevalent amongst women.
+      iii. The text has ANY content that promotes any drug or opioid's information, or gives facts about their harms, or gives general information about them without illegally selling them. Legally selling them would be under "Topical". Texts offering support for drug addicts are also "Topical". Example - Webiste talking about the psychedelic effects of LSD 
+      iv. The text has ANY content that talks or raises concerns against addictive activities like gambling, harmful games like blue whale challenge etc. Example - Website talking about blue whale challenge without going into specific details nor encouraging to participate
+  c. Intent - 
+      i. The text has ANY content that promotes self-harm or suicide or provides ways to harm yourself. Texts that make the reader depressed or motivates a person to commit self-harm, texts involving forums where people express their desire to commit suicide or not live anymore also comes under "Intent". Example - Text of a website depicting ways to kill yourself, Text of website demeaning it's reader's life and encouraging them into self-harm etc
+      ii. The text has ANY content that propagates false news about starving or eating disorders by motivating it's audience to limit their food intake. Example - A webiste's text promoting easy weight loss pills claiming easy weight loss through unscientific methods
+      iii. The text has ANY content that illegally sells drugs without prescription or sells opioids which are illegal. Making these products illegally is also "Intent". Example - Text that promotes opioids without proper prescription
+      iv. The text has ANY content that promotes addictive activities like gambling, harmful games like blue whale challenge etc. Texts might also glorify, or encourage excessive gaming, or form groups that ignore the health risks of excessive gaming are "Intent". Example - Text that glorifies gaming, without giving any necessary precautions of it's limited usage
+
+Based on the instructions, produce a JSON Array for every content type with an answer (Topical, Intent or None) in format {H: , IH: , SE: , IL: , SI:} in the <Label> Tag. Also produce reasoning for the labels as well in the <Reasoning> tags.
+If the text falls into any subcategory ("i" or "ii"..."iv") inside the categories of "None", "Topical" or "Intent" of their respective content types, the content type's value should be that category along with the bullet point name ("i" or "ii"..."iv"), like "Topical-i", "Intent-iv" etc.
+
+IMPORTANT POINTS TO CONSIDER WHILE JUDGING - 
+1. You need to strictly adhere to the guidelines and analyze the given web page content according the details given for each of the content type.
+2. You should not bring your own interpretation of the defensive content name while giving the label for the same.
+3. You need to analyze every part of the text and try to finalize the label. Some text might have an "Intent" label at it's ending portion, and can be "Topical" in between. The final label in cases like these would be "Intent".
+
+Example - 
+<Reasoning>**Reasoning Here** <Reasoning><Label>{H: , IH: , SE: , IL: , SI:} <Label>
+<|im_end|>
+<|im_start|>user
+Web Page Link - https://davesbirdingdiary.blogspot.com/2019/04/little-gull.html
+Web Page Content -
+Hello Everybody,
+My name is Mrs Sharon Sim. I live in Singapore and i am a happy woman today? and i told my self that any lender that rescue my family from our poor situation, i will refer any person that is looking for loan to him, he gave me happiness to me and my family, i was in need of a loan of $250,000.00 to start my life all over as i am a single mother with 3 kids I met this honest and GOD fearing man loan lender that help me with a loan of $250,000.00 SG. Dollar, he is a GOD fearing man, if you are in need of loan and you will pay back the loan please contact him tell him that is Mrs Sharon, that refer you to him. contact Dr Purva Pius, call/whats-App Contact Number +918929509036 via email:(urgentloan22@gmail.com) Thank you.
+<|im_end|>
+<|im_start|>assistant
+<Reasoning>
+The text talks about a person named Sharon who recieved a loan of 250,000 USD from an another person named Purva. Sharon tries to convince the reader of the text to take loan frlm the same person by giving details about the Purva. 
+Considering the nature of the text and the personal details, the text seems like a scam, intended to scam people in the name of giving a loan. As per the section (c.i), "Scams" fall in the section of Illegal (Illegal contains scams, hacking, doxing & smuggling of regulated goods). Hence, the label for "Illegal" should be "Intent-i".
+The text has no mention of ANY Hate, Violence, Ideological Harm, Sexual Content or Self-Inflicted content. Hence their labels are "None".
+<Reasoning>
+<Label>{H: None, IH: None, SE: None, IL: Intent-i, SI: None} <Label>
+<|im_end|>
+<|im_start|>user
+Web Page Link - https://thehotpepper.com/threads/darth-naga-vs-16-million-shu-pure-crystal-capsaicin.19723/
+Web Page Content -
+I have to give this bloke credit for trying this. http://www.youtube.com/watch?v=Mwn02qZn8vw&feature=player_embedded. He's no doubt a lot braver than I am.;)
+yeah , this guy did a couple of those viper thingys and barfed. i thought he was gonna die for this one!
+I can't imagine there is any flavor in that heat level. Insane!!
+Its not the pain, the endorphin rush afterwards is ALWAYS worth it!!
+What a stupid SOB!!
+<|im_end|>
+<|im_start|>assistant
+<Reasoning>
+The text's starting part looks like a person posting a youtube video URL about someone trying an act and states an opinion of the person doing an act braver than the OP. The content follows by comments about the act, of which some are hateful, self-hram propagating.
+The phrase "What a stupid SOB!!" is Hate-Inciting and is the opinion of the source, making the content (c.i) for Hate and Violence.
+The phrase "Its not the pain, the endorphin rush afterwards is ALWAYS worth it!!", promotes self-harm in one fashion or the other, since the context of the act involved trying something brave. This makes the content, Self-Inflicted Intent-i as per (c-i).
+Having no other Ideological Harm, Sexual content, and Illegal content their labels are "None". 
+<Reasoning>
+<Label>{H: Intent-i, IH: None, SE: None, IL: None, SI: Intent-i} <Label>
+<|im_end|>
+<|im_start|>user
+Web Page Link - https://www.peaktrans.org/this-is-beyond-satire-woke-britain-look-out-or-youll-render-me-obsolete-rod-liddle-in-the-times-24-03-19/
+Web Page Content -
+This is beyond satire, Woke Britain. Look out or you’ll render me obsolete Rod Liddle in The Times 24.03.19
+Every week Woke Britain gazumps me by doing something so fabulously absurd that any attempt at satire is rendered otiose.
+Last week it was reported that an Iranian asylum seeker was refused entry to this country because the Home Office considered his religion too violent. 
+Ah, good, you might be thinking: at last they’re getting to grips with those jihadists. You’d be wrong. This man is a Christian. A convert from Islam. The immigration officials wrote back to him insisting that the Holy Bible was “filled with imagery of revenge, destruction, death and violence”, and quoted a few verses of Revelation for good measure.
+<|im_end|>
+<|im_start|>assistant
+<Reasoning>
+The text talks about an opinion of a person on Britain. It talks about how Britain surprises him by giving an instance of how an asylum seeker was not given an entry into the country, despite him being a chirstian.
+The text clearly labels Iranians "jihadists", which is hateful, making the text's hate label "Intent-i" due to the content (c-i).
+The text shows clear bias against Britain by initially calling it "woke" and also proceeds to opine that he is gazumped by the absurd moves made by the country. Calling Iranians "jihadists" adds to the bias against iranians. This makes the content's Ideological Harm Label of "Intent-iii" (c-iii).
+Having no other Sexual content, Illegal, or Self-Inflicted content their labels are "None".
+<Reasoning>
+<Label>{H: Intent-i, IH: Intent-iii, SE: None, IL: None, SI: None} <Label>
+<|im_end|>
+<|im_start|>user
+Web Page Link - https://nationalfile.com/college-football-announcer-suspended-for-saying-illegal-aliens/
+Web Page Content -
+College Football Announcer Suspended for Saying ‘Illegal Aliens’. A college football announcer has been suspended for correctly referring to the legal status of migrants who enter the United States illegally. Gary Hahn has been calling football and basketball games for North Carolina State University since 1991.
+At one point during the broadcast, he provided an update on the Sun Bowl, which was being contested in El Paso, Texas. “And amongst all the illegal aliens down in El Paso,” Hahn stated during a radio broadcast. “It’s UCLA 14 and Pittsburgh 6.”
+<|im_end|>
+<|im_start|>assistant
+<Reasoning>
+The text talks about a college football announcer calling migrants in a team "Illegal Aliens". The text starts with a headline reporting the same, but also advocates to the bias against migrants by saying "correctly refering".
+The text's Hate, Violence label could have been Topical (b.i) due to the text reporting a hate incident, but the term "correctly referring" pointing to the word "Illegal Immigrants", makes the text propagate hate against the group, falling into (c.i), which makes the label "Intent-i".
+The text clearly shows bias against the group by justifying a remark against the group, and advocating bias makes the text fall into (c.iii), making the Ideological Harm label as "Intent-iii". The label could have been "Topical-iii", considering the fact that bias is being reported, but justifying made it "Intent".
+Having no other Sexual content, Illegal, or Self-Inflicted content their labels are "None".
+<Reasoning>
+<Label>{H: Intent-i, IH: Intent-iii, SE: None, IL: None, SI: None} <Label>
+<|im_end|>
+<|im_start|>user
+Web Page Link - https://logi2.com/coverups-we-have-been-lied-to-about-ww2-and-so-much-more-manufactured-history/
+Web Page Content -
+Coverups: We Have Been Lied To About WW2 And So Much More – Manufactured History. Most of the history we know was lied to us!!
+<|im_end|>
+<|im_start|>assistant
+<Reasoning>
+The text talks about the people being misinformed about world war 2 and most of the other history, which is a popular conspiracy thoery.
+Since the text raises a conspiracy theory and tries to promote it, by propagating it. Hence, it belongs to IH (c.i), which makes it's Ideological Harm of "Intent-i"
+Having no other Hate, Violence, Sexual content, Illegal, or Self-Inflicted content their labels are "None".
+<Reasoning>
+<Label>{H: None, IH: Intent-i, SE: None, IL: None, SI: None} <Label>
+<|im_end|>
+<|im_start|>user
+Web Page Link - #URL#
+Web Page Content -
+#Body#
+<|im_end|>
+<|im_start|>assistant
