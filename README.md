@@ -2,8 +2,6 @@
 
 This repository provides datasets and resources for the paper [**"Towards Safer Pretraining: Analyzing and Filtering Harmful Content in Webscale datasets for Responsible LLMs"**](https://arxiv.org/pdf/2505.02009). The datasets are curated to support research on safer and more responsible pretraining of language models.
 
-For now, we open source a sample (50 samples) of our datasets (TTP-Eval & HAVOC). We will share the entire sets soon.
-
 ## Folder Structure
 
 ```
