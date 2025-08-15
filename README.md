@@ -30,7 +30,7 @@ TowardsSaferPretraining/
     ```
 2. Review the `data/README.md` for dataset details and usage instructions.
 3. Use the prompts folder in case you need to evaluate TTP. The prompts are styled in Open AI's ChatML Format.
-4. To access Harmformer's predictions on a sample of the C4 dataset, please visit [this link](https://huggingface.co/datasets/themendu/SafeC4Sample).
+4. To access Harmformer's predictions on the entire C4 dataset, please visit [this link](https://huggingface.co/datasets/themendu/SafeC4).
 5. We release HarmFormer [here in HuggingFace](https://huggingface.co/themendu/HarmFormer)
 
 ## License
